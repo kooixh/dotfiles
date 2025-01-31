@@ -1,0 +1,12 @@
+theme = catppuccin-mocha
+
+
+background-blur-radius = 20
+background-opacity = 0.9
+window-decoration = true
+
+font-family = 'Hack Nerd Font'
+
+cursor-color = #FFFFFF
+cursor-text = #242428
+cursor-style-blink = true
