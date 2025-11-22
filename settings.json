@@ -47,5 +47,31 @@
         "before": ["<right>"],
         "after": ["<nop>"]
       }
-    ]
+    ],
+    "vim.visualModeKeyBindings": [
+      {
+        "before": ["<C-h>"],
+        "after": ["^"]
+      },
+      {
+        "before": ["<C-l>"],
+        "after": ["$"]
+      },
+      {
+        "before": ["<up>"],
+        "after": ["<nop>"]
+      },
+      {
+        "before": ["<down>"],
+        "after": ["<nop>"]
+      },
+      {
+        "before": ["<left>"],
+        "after": ["<nop>"]
+      },
+      {
+        "before": ["<right>"],
+        "after": ["<nop>"]
+      }
+    ],
 }
