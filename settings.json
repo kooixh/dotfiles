@@ -1,77 +1,155 @@
 {
-    "vim.useSystemClipboard": true,
-    "vim.normalModeKeyBindings": [
-      {
-        "before": ["<C-h>"],
-        "after": ["^"]
-      },
-      {
-        "before": ["<C-l>"],
-        "after": ["$"]
-      },
-      {
-        "before": ["<up>"],
-        "after": ["<nop>"]
-      },
-      {
-        "before": ["<down>"],
-        "after": ["<nop>"]
-      },
-      {
-        "before": ["<left>"],
-        "after": ["<nop>"]
-      },
-      {
-        "before": ["<right>"],
-        "after": ["<nop>"]
-      }
-    ],
-    "vim.insertModeKeyBindings": [
-      {
-        "before": ["j", "j"],
-        "after": ["<Esc>"]
-      },
-      {
-        "before": ["<up>"],
-        "after": ["<nop>"]
-      },
-      {
-        "before": ["<down>"],
-        "after": ["<nop>"]
-      },
-      {
-        "before": ["<left>"],
-        "after": ["<nop>"]
-      },
-      {
-        "before": ["<right>"],
-        "after": ["<nop>"]
-      }
-    ],
-    "vim.visualModeKeyBindings": [
-      {
-        "before": ["<C-h>"],
-        "after": ["^"]
-      },
-      {
-        "before": ["<C-l>"],
-        "after": ["$"]
-      },
-      {
-        "before": ["<up>"],
-        "after": ["<nop>"]
-      },
-      {
-        "before": ["<down>"],
-        "after": ["<nop>"]
-      },
-      {
-        "before": ["<left>"],
-        "after": ["<nop>"]
-      },
-      {
-        "before": ["<right>"],
-        "after": ["<nop>"]
-      }
-    ],
+  "vim.useSystemClipboard": true,
+  "vim.normalModeKeyBindings": [
+    {
+      "before": [
+        "<C-h>"
+      ],
+      "after": [
+        "^"
+      ]
+    },
+    {
+      "before": [
+        "<C-l>"
+      ],
+      "after": [
+        "$"
+      ]
+    },
+    {
+      "before": [
+        "<up>"
+      ],
+      "after": [
+        "<nop>"
+      ]
+    },
+    {
+      "before": [
+        "<down>"
+      ],
+      "after": [
+        "<nop>"
+      ]
+    },
+    {
+      "before": [
+        "<left>"
+      ],
+      "after": [
+        "<nop>"
+      ]
+    },
+    {
+      "before": [
+        "<right>"
+      ],
+      "after": [
+        "<nop>"
+      ]
+    }
+  ],
+  "vim.visualModeKeyBindings": [
+    {
+      "before": [
+        "p",
+        "p"
+      ],
+      "after": [
+        "<Esc>"
+      ]
+    },
+    {
+      "before": [
+        "<C-h>"
+      ],
+      "after": [
+        "^"
+      ]
+    },
+    {
+      "before": [
+        "<C-l>"
+      ],
+      "after": [
+        "$"
+      ]
+    },
+    {
+      "before": [
+        "<up>"
+      ],
+      "after": [
+        "<nop>"
+      ]
+    },
+    {
+      "before": [
+        "<down>"
+      ],
+      "after": [
+        "<nop>"
+      ]
+    },
+    {
+      "before": [
+        "<left>"
+      ],
+      "after": [
+        "<nop>"
+      ]
+    },
+    {
+      "before": [
+        "<right>"
+      ],
+      "after": [
+        "<nop>"
+      ]
+    }
+  ],
+  "vim.insertModeKeyBindings": [
+    {
+      "before": [
+        "j",
+        "j"
+      ],
+      "after": [
+        "<Esc>"
+      ]
+    },
+    {
+      "before": [
+        "<up>"
+      ],
+      "after": [
+        "<nop>"
+      ]
+    },
+    {
+      "before": [
+        "<down>"
+      ],
+      "after": [
+        "<nop>"
+      ]
+    },
+    {
+      "before": [
+        "<left>"
+      ],
+      "after": [
+        "<nop>"
+      ]
+    },
+    {
+      "before": [
+        "<right>"
+      ],
+      "after": [
+        "<nop>"
+      ]
+    }
+  ]
 }
